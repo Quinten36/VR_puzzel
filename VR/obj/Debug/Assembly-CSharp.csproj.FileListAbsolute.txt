@@ -1,0 +1,2 @@
+C:\Users\MT-Student\Desktop\Introduction To HTC Vive - Final\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\MT-Student\Desktop\Introduction To HTC Vive - Final\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
